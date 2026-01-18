@@ -35,3 +35,7 @@ I believe in **learning by building**. My repositories are a mix of academic exp
   "Tools": ["Git & GitHub", "Postman", "Figma", "VS Code"]
 }
 
+```
+
+<p align="left"> <a href="https://parth-portfolio.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Visit_Site-black?style=flat-square&logo=vercel" /> </a> <a href="https://www.linkedin.com/in/parth-sharma-16469a293" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" /> </a> <a href="mailto:parth.sharma1@somaiya.edu"> <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail" /> </a> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Parths-29&show_icons=true&theme=graywhite&hide_border=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parths-29&layout=compact&theme=graywhite&hide_border=true" height="150" /> </p>
