@@ -4,7 +4,7 @@
   ### ⚡ Curious Full-Stack Developer | Exploring AI & Blockchain
   
   <p align="center">
-    <a href="(https://portfolio-wine-gamma-97.vercel.app/)">
+    <a href="https://portfolio-wine-gamma-97.vercel.app/">
       <img src="https://img.shields.io/badge/PORTFOLIO-LIVE_SIGNAL-ff0000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/parth-sharma-16469a293">
