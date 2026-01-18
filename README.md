@@ -1,63 +1,35 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=250&section=header&text=Parth%20Sharma&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
-  
-  ### ⚡ Full Stack Architect | AI Operative | Blockchain Developer
-  
-  <p align="center">
-    <a href="https://parth-portfolio.com">
-      <img src="https://img.shields.io/badge/PORTFOLIO-LIVE_SIGNAL-ff0000?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/parth-sharma-16469a293">
-      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-     <a href="mailto:parth.sharma1@somaiya.edu">
-      <img src="https://img.shields.io/badge/EMAIL-TRANSMIT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:333333&height=220&section=header&text=Parth%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 </div>
+
+### 👋 Hi, I'm Parth.
+
+I’m a 3rd-year IT student at **KJSCE** with a strong foundation in Web Development. Right now, I'm expanding my skill set into **Artificial Intelligence** and **Blockchain** because I'm interested in building systems that are smarter and more secure.
+
+I believe in **learning by building**. My repositories are a mix of academic experiments, hackathon projects, and full-stack applications I've built to solve real problems.
 
 ---
 
-### 👨‍💻 **Mission Report**
-I am a 3rd-year IT student at **KJSCE** bridging the gap between **Web Development**, **Artificial Intelligence**, and **Web3**. I don't just write code; I build systems that solve real-world problems.
+### 🚀 **Current Focus**
 
-- 🔭 I’m currently building: **Neural Med-Assist (AI Healthcare)**
-- 🌱 I’m currently learning: **Advanced Solidity & German (Deutsch)**
-- 🎯 Current Goal: **Master's in Germany 🇩🇪**
-- ⚡ Fun fact: I treat my GitHub graph like a daily streak game.
-
----
-
-### 🛠 **Tech Arsenal**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
+* **Web Development:** I'm comfortable with the **MERN Stack** (MongoDB, Express, React, Node) and building responsive frontends.
+* **AI & ML:** currently exploring Computer Vision and LLMs. I'm learning how to integrate these models into web apps (like my *Neural Med-Assist* project).
+* **Blockchain:** Starting my journey with **Solidity** and Smart Contracts to understand decentralized systems.
+* **Languages:** Native English/Hindi speaker, currently learning **German (Deutsch)** 🇩🇪 for my future Master's plans.
 
 ---
 
-### 📊 **Data Log**
+### 🛠 **The Stack**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parths-29&show_icons=true&theme=radical&hide_border=true&bg_color=000000" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parths-29&layout=compact&theme=radical&hide_border=true&bg_color=000000" height="160" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parths-29&theme=radical&hide_border=true&background=000000" />
-</div>
+```text
+// My technical toolkit
+{
+  "Languages":     ["JavaScript (ES6+)", "Python", "Java", "Solidity (Learning)"],
+  "Frontend":      ["React.js", "Tailwind CSS", "HTML5/CSS3"],
+  "Backend":       ["Node.js", "Express", "REST APIs"],
+  "Data & AI":     ["MongoDB", "TensorFlow", "OpenCV", "Streamlit"],
+  "Tools":         ["Git & GitHub", "Postman", "Figma", "VS Code"]
+}
+<p align="left"> <a href="https://www.google.com/search?q=https://parth-portfolio.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-Visit_Site-black%3Fstyle%3Dflat-square%26logo%3Dvercel" /> </a> <a href="https://www.linkedin.com/in/parth-sharma-16469a293"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077B5%3Fstyle%3Dflat-square%26logo%3Dlinkedin" /> </a> <a href="mailto:parth.sharma1@somaiya.edu"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-D14836%3Fstyle%3Dflat-square%26logo%3Dgmail" /> </a> </p>
+
+<p align="left"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DParths-29%26show_icons%3Dtrue%26theme%3Dgraywhite%26hide_border%3Dtrue" height="150" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DParths-29%26layout%3Dcompact%26theme%3Dgraywhite%26hide_border%3Dtrue" height="150" /> </p>
