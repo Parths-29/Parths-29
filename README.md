@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:000000&height=250&section=header&text=Parth%20Sharma&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
   
-  ### ⚡ Curious Full-Stack Developer | Exploring AI & Blockchain
+  ###  Curious Full-Stack Developer | Exploring AI & Blockchain
   
   <p align="center">
     <a href="https://portfolio-wine-gamma-97.vercel.app/">
