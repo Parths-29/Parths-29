@@ -52,8 +52,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Parths-29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parths-29&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parths-29&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=FF6B6B&fire=FFD93D&currStreakLabel=FF6B6B" alt="Streak Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parths-29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD93D" alt="Top Langs" />
 
 </div>
 
