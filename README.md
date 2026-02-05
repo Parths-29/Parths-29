@@ -38,14 +38,6 @@
 
 ---
 
-### 🏆 ACHIEVEMENT UNLOCKED (Trophies)
-
-<div align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Parths-29&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
-
 ### ⚔️ WEAPONRY (Tech Stack)
 
 <div align="center">
@@ -60,18 +52,8 @@
 
 <div align="center">
 
-<table style="border: none;">
-<tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=Parths-29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  </td>
-  <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parths-29&theme=radical&hide_border=true&background=0D1117" />
-  </td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parths-29&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Parths-29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parths-29&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" height="180" />
 
 </div>
 
