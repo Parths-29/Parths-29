@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/parth-sharma-16469a293/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/parths-29/">
+  <a href="https://leetcode.com/u/Procriminal29/">
     <img src="https://img.shields.io/badge/LeetCode-Grinding-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
