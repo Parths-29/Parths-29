@@ -27,8 +27,7 @@ tech_stack:
   languages: [Python, TypeScript, Java, Solidity]
   frameworks: [React, Next.js, TensorFlow, PyTorch]
   tools: [Docker, Kubernetes, GCP, AWS]
-```
-
+`''
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00d9ff&labelColor=0a0e27&borderColor=00d9ff)](https://portfolio-wine-gamma-97.vercel.app/)
