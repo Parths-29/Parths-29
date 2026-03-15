@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Parth Sharma 👋
+# Hi there, I'm Parth Sharma ⚡
 
 <h3>Full-Stack Developer • AI Engineer • Blockchain Developer</h3>
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🎮 TECH STACK
+## ⚙️ TECH STACK
 
 <div align="center">
 
@@ -44,15 +44,18 @@
 
 ---
 
-## 🔥 CONTRIBUTION METRICS
+## 🔥 STATS
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parths-29&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=ffffff&border_radius=10" width="70%"/>
+<!-- Cool 3D Isometric Contribution Calendar Widget -->
+<img src="https://github-readme-stats.vercel.app/api?username=Parths-29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_radius=10&count_private=true&include_all_commits=true&custom_title=⚡%20Performance%20Metrics" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parths-29&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=ffffff&border_radius=10" width="48%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parths-29&theme=tokyo-night&bg_color=0a0e27&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<!-- The Cool Widget: 3D Isometric Contribution Graph -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parths-29&theme=tokyonight" width="100%"/>
 
 </div>
 
@@ -68,7 +71,7 @@
 
 ---
 
-## 🔬 RESEARCH INTERESTS
+## 🧠 RESEARCH INTERESTS
 
 <div align="center">
 
@@ -80,7 +83,7 @@
 
 ---
 
-## 📬 LET'S CONNECT
+## 📬 CONNECT
 
 <div align="center">
 
