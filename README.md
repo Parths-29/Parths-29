@@ -12,6 +12,18 @@
 
 **Currently Building:** Neural Med-Assist • Smart Contract Security Tools • Computer Vision Systems
 
+<br>
+
+<a href="https://portfolio-wine-gamma-97.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0a0e27?style=for-the-badge&logo=vercel&logoColor=00d9ff" height="35"/>
+</a>
+<a href="https://www.linkedin.com/in/parth-sharma-16469a293/">
+  <img src="https://img.shields.io/badge/LinkedIn-0a0e27?style=for-the-badge&logo=linkedin&logoColor=00d9ff" height="35"/>
+</a>
+<a href="https://leetcode.com/u/Procriminal29/">
+  <img src="https://img.shields.io/badge/LeetCode-0a0e27?style=for-the-badge&logo=leetcode&logoColor=00d9ff" height="35"/>
+</a>
+
 </div>
 
 ---
@@ -92,14 +104,8 @@
 <a href="mailto:parth.sharma1@somaiya.edu">
   <img src="https://img.shields.io/badge/Gmail-0a0e27?style=for-the-badge&logo=gmail&logoColor=00d9ff" height="40"/>
 </a>
-<a href="https://www.linkedin.com/in/parth-sharma-16469a293/">
-  <img src="https://img.shields.io/badge/LinkedIn-0a0e27?style=for-the-badge&logo=linkedin&logoColor=00d9ff" height="40"/>
-</a>
-<a href="https://portfolio-wine-gamma-97.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0a0e27?style=for-the-badge&logo=vercel&logoColor=00d9ff" height="40"/>
-</a>
-<a href="https://leetcode.com/u/Procriminal29/">
-  <img src="https://img.shields.io/badge/LeetCode-0a0e27?style=for-the-badge&logo=leetcode&logoColor=00d9ff" height="40"/>
+<a href="https://discord.com/users/Procriminal#2970">
+  <img src="https://img.shields.io/badge/Discord-0a0e27?style=for-the-badge&logo=discord&logoColor=00d9ff" height="40"/>
 </a>
 
 <br><br>
