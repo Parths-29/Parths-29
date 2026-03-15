@@ -1,7 +1,6 @@
 <div align="center">
   
-<!-- Professional Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10&height=200&section=header&text=PARTH%20SHARMA&fontSize=70&fontColor=00f2ff&animation=twinkling&fontAlignY=35" width="100%"/>
+
 
 <!-- Developer Animation -->
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
