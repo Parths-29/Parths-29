@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Parth Sharma ⚡
+# Hi there, I'm Parth Sharma 👋
 
 <h3>Full-Stack Developer • AI Engineer • Blockchain Developer</h3>
 
