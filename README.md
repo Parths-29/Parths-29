@@ -60,11 +60,7 @@
 
 <div align="center">
 
-<!-- Cool 3D Isometric Contribution Calendar Widget -->
-<img src="https://github-readme-stats.vercel.app/api?username=Parths-29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_radius=10&count_private=true&include_all_commits=true&custom_title=⚡%20Performance%20Metrics" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Parths-29&theme=tokyonight&hide_border=true&background=0a0e27&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=ffffff&border_radius=10" width="48%"/>
 
-<br><br>
 
 <!-- The Cool Widget: 3D Isometric Contribution Graph -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parths-29&theme=tokyonight" width="100%"/>
