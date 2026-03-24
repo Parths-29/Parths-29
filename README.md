@@ -2,7 +2,7 @@
 
 # Hi there, I'm Parth Sharma 👋
 
-<h3>Full-Stack Developer • AI Engineer • Blockchain Developer</h3>
+<h3>Full-Stack Developer • AI Engineer • Blockchain Enthusiast</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Mumbai%2C%20India-00d9ff?style=flat-square&logo=googleearth&logoColor=white&labelColor=0a0e27"/>
