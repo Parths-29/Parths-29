@@ -73,17 +73,6 @@
 
 </div>
 
----
-
-## 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Parths-29&theme=tokyonight&no-frame=true&no-bg=true&column=3&margin-w=15&title=Commits,Repositories,PullRequest" width="50%"/>
-
-</div>
-
----
 
 ## 🧠 RESEARCH INTERESTS
 
