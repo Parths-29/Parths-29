@@ -81,10 +81,7 @@ markdown
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" title="Linux" height="40"/>
 
 <br><br>
-
-<img src="https://img.shields.io/badge/LeetCode-00d9ff?style=flat-square&logo=leetcode&logoColor=white&labelColor=0a0e27"/>
-<img src="https://img.shields.io/badge/Adobe%20Experience%20Manager-00d9ff?style=flat-square&labelColor=0a0e27"/>
-
+<img src="https://img.shields.io/badge/Adobe%20Experience%20Manager-1a1a1a?style=flat-square&logoColor=d4c5a9"/>
 </div>
 
 </td>
