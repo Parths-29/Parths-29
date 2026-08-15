@@ -1,3 +1,4 @@
+markdown
 <div align="center">
 
 # Hey, I'm Parth Sharma
@@ -5,16 +6,13 @@
 <h3>Frontend Developer • AI Engineer</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Mumbai%2C%20India-00d9ff?style=flat-square&logo=googleearth&logoColor=white&labelColor=0a0e27"/>
-  <img src="https://img.shields.io/badge/Thinking%20for%20Masters-00d9ff?style=flat-square&logo=googlescholar&logoColor=white&labelColor=0a0e27"/>
-  <img src="https://img.shields.io/badge/Available%20for%20Opportunities-00ff00?style=flat-square&logo=checkmarx&logoColor=white&labelColor=0a0e27"/>
+  <img src="https://img.shields.io/badge/Mumbai%2C%20India-1a1a1a?style=flat-square&logo=googleearth&logoColor=d4c5a9"/>
+  <img src="https://img.shields.io/badge/Thinking%20for%20Masters-1a1a1a?style=flat-square&logo=googlescholar&logoColor=d4c5a9"/>
 </p>
 
 </div>
 
 ---
-
-## CONNECT
 
 ## CONNECT
 
@@ -82,12 +80,12 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" title="Solidity" height="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" title="Linux" height="40"/>
 
+<br><br>
 
+<img src="https://img.shields.io/badge/LeetCode-00d9ff?style=flat-square&logo=leetcode&logoColor=white&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Adobe%20Experience%20Manager-00d9ff?style=flat-square&labelColor=0a0e27"/>
 
 </div>
-
-
-
 
 </td>
 <td width="45%" valign="middle">
