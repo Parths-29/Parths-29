@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Available%20for%20Opportunities-00ff00?style=flat-square&logo=checkmarx&logoColor=white&labelColor=0a0e27"/>
 </p>
 
-## 📬 CONNECT
+## CONNECT
 
 <div align="center">
 
