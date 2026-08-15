@@ -1,16 +1,14 @@
 <div align="center">
 
-# Hi there, I'm Parth Sharma 👋
+# Hey, I'm Parth Sharma....
 
-<h3>Full-Stack Developer • AI Engineer • Blockchain Enthusiast</h3>
+<h3>Frontend Developer • AI Engineer </h3>
 
 <p>
   <img src="https://img.shields.io/badge/Mumbai%2C%20India-00d9ff?style=flat-square&logo=googleearth&logoColor=white&labelColor=0a0e27"/>
   <img src="https://img.shields.io/badge/Thinking%20for%20Masters-00d9ff?style=flat-square&logo=googlescholar&logoColor=white&labelColor=0a0e27"/>
   <img src="https://img.shields.io/badge/Available%20for%20Opportunities-00ff00?style=flat-square&logo=checkmarx&logoColor=white&labelColor=0a0e27"/>
 </p>
-
-**Currently Building:** Neural Med-Assist • Smart Contract Security Tools • Computer Vision Systems
 
 ## 📬 CONNECT
 
