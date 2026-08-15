@@ -1,7 +1,7 @@
 markdown
 <div align="center">
 
-# Hey, I'm Parth Sharma
+# Hey, I'm Parth Sharma......
 
 <h3>Frontend Developer • AI Engineer</h3>
 
