@@ -45,14 +45,56 @@
 
 **Core Expertise**
 
-<img src="https://img.shields.io/badge/Machine%20Learning-00d9ff?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0a0e27"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-00d9ff?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0a0e27"/>
-<img src="https://img.shields.io/badge/NLP-00d9ff?style=flat-square&logo=huggingface&logoColor=white&labelColor=0a0e27"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-00d9ff?style=flat-square&logo=googleanalytics&logoColor=white&labelColor=0a0e27"/>
-<img src="https://img.shields.io/badge/DevOps-00d9ff?style=flat-square&logo=docker&logoColor=white&labelColor=0a0e27"/>
-<img src="https://img.shields.io/badge/System%20Design-00d9ff?style=flat-square&logo=diagramsdotnet&logoColor=white&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-1a1a1a?style=flat-square&logoColor=d4c5a9"/>
+<img src="https://img.shields.io/badge/Frontend%20Development-1a1a1a?style=flat-square&logoColor=d4c5a9"/>
 
 <br><br>
+
+**CS Fundamentals**
+
+<img src="https://img.shields.io/badge/Data%20Structures-1a1a1a?style=flat-square&logoColor=d4c5a9"/>
+<img src="https://img.shields.io/badge/DBMS-1a1a1a?style=flat-square&logoColor=d4c5a9"/>
+<img src="https://img.shields.io/badge/OOPs-1a1a1a?style=flat-square&logoColor=d4c5a9"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-1a1a1a?style=flat-square&logoColor=d4c5a9"/>
+<img src="https://img.shields.io/badge/DevOps%20%2F%20CI%20CD-1a1a1a?style=flat-square&logoColor=d4c5a9"/>
+
+<br><br>
+
+**Languages & Tools**
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" title="Python" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" title="AWS" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" title="Docker" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" title="React" height="40">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" title="MongoDB" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" title="MySQL" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" title="Git" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/githubactions.png" title="GitHub Actions" height="40">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" title="Flask" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" title="Flutter" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" title="Figma" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png" title="PyTorch" height="40">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/huggingface.png" title="Hugging Face" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" title="LangChain" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" title="Solidity" height="40">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" title="Linux" height="40">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Adobe%20Experience%20Manager-1a1a1a?style=flat-square&logoColor=d4c5a9"/>
+
+</div>
 
 **Languages & Tools**
 
