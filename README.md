@@ -82,16 +82,6 @@
 </div>
 
 
-## 🧠 RESEARCH INTERESTS
-
-<div align="center">
-
-| **Medical AI** | **Blockchain Security** |
-|:--------------:|:----------------------:|
-| Deep learning applications in healthcare diagnostics and medical imaging analysis | Smart contract vulnerability detection and automated security auditing for DeFi protocols |
-
-</div>
-
 ---
 
 
