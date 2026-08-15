@@ -12,8 +12,18 @@
 
 **Currently Building:** Neural Med-Assist • Smart Contract Security Tools • Computer Vision Systems
 
+## 📬 CONNECT
+
+<div align="center">
+
 <br>
 
+<a href="mailto:parth.sharma1@somaiya.edu">
+  <img src="https://img.shields.io/badge/Gmail-0a0e27?style=for-the-badge&logo=gmail&logoColor=00d9ff" height="40"/>
+</a>
+<a href="https://discord.com/users/Procriminal#2970">
+  <img src="https://img.shields.io/badge/Discord-0a0e27?style=for-the-badge&logo=discord&logoColor=00d9ff" height="40"/>
+</a>
 <a href="https://portfolio-wine-gamma-97.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0a0e27?style=for-the-badge&logo=vercel&logoColor=00d9ff" height="35"/>
 </a>
@@ -86,26 +96,7 @@
 
 ---
 
-## 📬 CONNECT
 
-<div align="center">
-
-<br>
-
-<a href="mailto:parth.sharma1@somaiya.edu">
-  <img src="https://img.shields.io/badge/Gmail-0a0e27?style=for-the-badge&logo=gmail&logoColor=00d9ff" height="40"/>
-</a>
-<a href="https://discord.com/users/Procriminal#2970">
-  <img src="https://img.shields.io/badge/Discord-0a0e27?style=for-the-badge&logo=discord&logoColor=00d9ff" height="40"/>
-</a>
-
-<br><br>
-
-**Open for Full-Time Roles • Freelance Projects • Collaborations**
-
-</div>
-
----
 
 <div align="center">
 
