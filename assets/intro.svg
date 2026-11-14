@@ -1,0 +1,32 @@
+<svg viewBox="0 0 520 270" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Parth Sharma, AI and ML engineer, UI designer">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .hello { font-size: 13px; letter-spacing: 2.5px; fill: #59636e; }
+    .name  { font-size: 54px; font-weight: 700; letter-spacing: -1.5px; fill: #1f2328; }
+    .tag   { font-size: 22px; font-weight: 600; }
+    .ml { fill: #0969da; } .ui { fill: #8250df; } .sep { fill: #59636e; }
+    .body  { font-size: 16px; fill: #59636e; }
+    .meta  { font-size: 14px; fill: #59636e; }
+    .in { opacity: 0; animation: in .7s ease forwards; }
+    .d1{animation-delay:.05s} .d2{animation-delay:.2s} .d3{animation-delay:.35s}
+    .d4{animation-delay:.5s}  .d5{animation-delay:.65s}
+    @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @media (prefers-color-scheme: dark) {
+      .hello, .body, .meta, .sep { fill: #9198a1; }
+      .name { fill: #f0f6fc; }
+      .ml { fill: #4493f8; } .ui { fill: #ab7df8; }
+    }
+  </style>
+
+  <text class="hello in d1" x="4" y="28">HELLO, I&#8217;M</text>
+  <text class="name in d2" x="2" y="88">Parth Sharma</text>
+  <text class="tag in d3" x="4" y="130">
+    <tspan class="ml">AI &amp; ML engineer</tspan><tspan class="sep"> · </tspan><tspan class="ui">UI designer</tspan>
+  </text>
+  <g class="in d4">
+    <text class="body" x="4" y="170">I build ML systems and design the interface around them.</text>
+    <text class="body" x="4" y="194">A model nobody can use isn&#8217;t finished, and a pretty UI</text>
+    <text class="body" x="4" y="218">with nothing behind it isn&#8217;t either.</text>
+  </g>
+  <text class="meta in d5" x="4" y="256">Mumbai  ·  B.Tech IT &#8217;27  ·  Thinking about a Masters</text>
+</svg>
