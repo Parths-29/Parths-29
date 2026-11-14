@@ -4,7 +4,7 @@
 
 [Portfolio](https://portfolio-wine-gamma-97.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/parth-sharma-16469a293/) · [LeetCode](https://leetcode.com/u/Procriminal29/) · [Email](mailto:parth.sharma1@somaiya.edu)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=0969da&style=flat-square" alt="Profile views"/>
+
 
 <br clear="right"/>
 
