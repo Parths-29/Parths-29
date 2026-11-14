@@ -1,21 +1,33 @@
-<table>
-<tr>
-<td width="240" align="center" valign="middle">
-  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="200"/>
-</td>
-<td valign="middle">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="300" alt="Animated illustration"/>
 
-## Parth Sharma
-**Frontend developer · AI engineer**
-
-I pick a domain, learn it properly, and ship something real in it. ML is my major, and I care a lot about how things look and feel.
+<img src="assets/intro.svg" width="500" alt="Parth Sharma, AI and ML engineer, UI designer"/>
 
 [Portfolio](https://portfolio-wine-gamma-97.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/parth-sharma-16469a293/) · [LeetCode](https://leetcode.com/u/Procriminal29/) · [Email](mailto:parth.sharma1@somaiya.edu)
 
-</td>
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=0969da&style=flat-square" alt="Profile views"/>
 
-<img src="assets/about.svg" width="100%" alt="What I build: ML, blockchain, frontend, full stack, cloud"/>
+<br clear="right"/>
 
-<!-- paste the github-cool-readme cards here once the action has generated them -->
+<img src="assets/focus.svg" width="100%" alt="AI and ML, interface design, and other things I ship"/>
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/cards/summary-light.svg" width="450" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/cards/languages-light.svg" width="350" alt="Most used languages">
+</picture>
+</p>
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/cards/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/cards/contributions-light.svg" width="450" alt="Notable contributions">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/cards/weekly-light.svg" width="350" alt="Weekly rhythm">
+</picture>
+</p>
