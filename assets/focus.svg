@@ -1,0 +1,59 @@
+<svg viewBox="0 0 830 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AI and ML, interface design, and other things shipped">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .label { font-size: 12px; font-weight: 600; letter-spacing: 1.4px; fill: #59636e; }
+    .head  { font-size: 20px; font-weight: 600; fill: #1f2328; }
+    .item  { font-size: 14px; fill: #59636e; }
+    .rule  { stroke: #d1d9e0; stroke-width: 1; }
+    .ml { fill: #0969da; } .ui { fill: #8250df; }
+    .green { fill: #1a7f37; } .orange { fill: #bc4c00; } .pink { fill: #bf3989; }
+    .in { opacity: 0; animation: in .6s ease forwards; }
+    .d1{animation-delay:.05s} .d2{animation-delay:.2s} .d3{animation-delay:.35s} .d4{animation-delay:.5s}
+    @keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @media (prefers-color-scheme: dark) {
+      .label, .item { fill: #9198a1; }
+      .head { fill: #f0f6fc; }
+      .rule { stroke: #3d444d; }
+      .ml { fill: #4493f8; } .ui { fill: #ab7df8; }
+      .green { fill: #3fb950; } .orange { fill: #db6d28; } .pink { fill: #db61a2; }
+    }
+  </style>
+
+  <!-- AI & ML -->
+  <g class="in d1">
+    <circle class="ml" cx="30" cy="30" r="5"/>
+    <text class="label" x="44" y="35">AI &amp; ML</text>
+    <text class="head" x="24" y="76">Models that hold up on real data</text>
+  </g>
+  <g class="in d2">
+    <circle class="ml" cx="30" cy="106" r="3"/><text class="item" x="44" y="111">Deep learning, NLP and transformers</text>
+    <circle class="ml" cx="30" cy="134" r="3"/><text class="item" x="44" y="139">UPI Fraud Lab: hybrid ML fraud detection</text>
+    <circle class="ml" cx="30" cy="162" r="3"/><text class="item" x="44" y="167">SynthID Detector: ResNet50 + Grad-CAM</text>
+  </g>
+
+  <line class="rule" x1="415" y1="20" x2="415" y2="176"/>
+
+  <!-- Interface design -->
+  <g class="in d1">
+    <circle class="ui" cx="436" cy="30" r="5"/>
+    <text class="label" x="450" y="35">INTERFACE DESIGN</text>
+    <text class="head" x="430" y="76">Designed first, built second</text>
+  </g>
+  <g class="in d2">
+    <circle class="ui" cx="436" cy="106" r="3"/><text class="item" x="450" y="111">Figma first, then React and Flutter</text>
+    <circle class="ui" cx="436" cy="134" r="3"/><text class="item" x="450" y="139">Design systems, motion, light and dark themes</text>
+    <circle class="ui" cx="436" cy="162" r="3"/><text class="item" x="450" y="167">Every project ships with a real, designed UI</text>
+  </g>
+
+  <line class="rule" x1="24" y1="196" x2="806" y2="196"/>
+
+  <!-- Also shipping -->
+  <g class="in d3">
+    <text class="label" x="24" y="226">ALSO SHIPPING</text>
+    <text class="item" x="150" y="226">
+      <tspan class="green">●</tspan><tspan> Blockchain (Solidity dApps)</tspan>
+      <tspan class="orange" dx="22">●</tspan><tspan> Full stack (MERN, Flask)</tspan>
+      <tspan class="pink" dx="22">●</tspan><tspan> Cloud (AWS, Docker, CI/CD)</tspan>
+    </text>
+  </g>
+</svg>
