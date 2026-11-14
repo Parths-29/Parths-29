@@ -1,26 +1,21 @@
-<img src="assets/header.svg" width="100%" alt="Parth Sharma — Frontend Developer / AI Engineer"/>
-
 <table>
 <tr>
-<td width="220" valign="middle" align="center">
+<td width="240" align="center" valign="middle">
   <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="200"/>
 </td>
 <td valign="middle">
 
-I don't pick a lane and stay in it. I pick a domain, learn it properly, and ship something real.
+## Parth Sharma
+**Frontend developer · AI engineer**
 
-ML is my major. Blockchain, frontend, full stack and cloud fill out the rest of the map. I care most about how things look and feel, so I build interfaces like they matter.
+I pick a domain, learn it properly, and ship something real in it. ML is my major, and I care a lot about how things look and feel.
+
+[Portfolio](https://portfolio-wine-gamma-97.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/parth-sharma-16469a293/) · [LeetCode](https://leetcode.com/u/Procriminal29/) · [Email](mailto:parth.sharma1@somaiya.edu)
 
 </td>
 </tr>
 </table>
 
-<img src="assets/domains.svg" width="100%" alt="Domains: ML, Blockchain, Frontend, Full Stack, Cloud/DevOps"/>
+<img src="assets/about.svg" width="100%" alt="What I build: ML, blockchain, frontend, full stack, cloud"/>
 
-<br/>
-
-<a href="mailto:parth.sharma1@somaiya.edu"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ffe600"/></a>
-<a href="https://portfolio-wine-gamma-97.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=ffe600"/></a>
-<a href="https://www.linkedin.com/in/parth-sharma-16469a293/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=ffe600"/></a>
-<a href="https://leetcode.com/u/Procriminal29/"><img src="https://img.shields.io/badge/LEETCODE%20%7C%20390%2B-000000?style=for-the-badge&logo=leetcode&logoColor=ffe600"/></a>
-
+<!-- paste the github-cool-readme cards here once the action has generated them -->
