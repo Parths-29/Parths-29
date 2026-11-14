@@ -1,0 +1,41 @@
+<svg viewBox="0 0 830 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="What Parth builds">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .label { font-size: 12px; letter-spacing: 1.2px; fill: #59636e; }
+    .name  { font-size: 15px; font-weight: 600; fill: #1f2328; }
+    .sub   { font-size: 14px; fill: #59636e; }
+    .val   { font-size: 14px; font-weight: 600; fill: #1f2328; }
+    .rule  { stroke: #d1d9e0; stroke-width: 1; }
+    .blue { fill: #0969da; } .green { fill: #1a7f37; } .orange { fill: #bc4c00; }
+    .purple { fill: #8250df; } .pink { fill: #bf3989; }
+    .row { opacity: 0; animation: in .6s ease forwards; }
+    .r1{animation-delay:.05s}.r2{animation-delay:.15s}.r3{animation-delay:.25s}
+    .r4{animation-delay:.35s}.r5{animation-delay:.45s}
+    @keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @media (prefers-color-scheme: dark) {
+      .label, .sub { fill: #9198a1; }
+      .name, .val { fill: #f0f6fc; }
+      .rule { stroke: #3d444d; }
+      .blue { fill: #4493f8; } .green { fill: #3fb950; } .orange { fill: #db6d28; }
+      .purple { fill: #ab7df8; } .pink { fill: #db61a2; }
+    }
+  </style>
+
+  <!-- left: domains -->
+  <text class="label" x="24" y="36">WHAT I BUILD</text>
+
+  <g class="row r1"><circle class="purple" cx="30" cy="73" r="5"/><text class="name" x="48" y="78">Machine learning</text><text class="sub" x="400" y="78" text-anchor="end">deep learning, NLP, transformers</text></g>
+  <g class="row r2"><circle class="blue" cx="30" cy="105" r="5"/><text class="name" x="48" y="110">Blockchain</text><text class="sub" x="400" y="110" text-anchor="end">Solidity, dApps</text></g>
+  <g class="row r3"><circle class="green" cx="30" cy="137" r="5"/><text class="name" x="48" y="142">Frontend</text><text class="sub" x="400" y="142" text-anchor="end">React, Flutter, Figma</text></g>
+  <g class="row r4"><circle class="orange" cx="30" cy="169" r="5"/><text class="name" x="48" y="174">Full stack</text><text class="sub" x="400" y="174" text-anchor="end">MERN, Flask, REST</text></g>
+  <g class="row r5"><circle class="pink" cx="30" cy="201" r="5"/><text class="name" x="48" y="206">Cloud / DevOps</text><text class="sub" x="400" y="206" text-anchor="end">AWS, Docker, CI/CD</text></g>
+
+  <!-- right: profile -->
+  <text class="label" x="440" y="36">PROFILE</text>
+
+  <g class="row r1"><text class="sub" x="440" y="78">Based in</text><text class="val" x="806" y="78" text-anchor="end">Mumbai, India</text></g>
+  <g class="row r2"><text class="sub" x="440" y="110">Studying</text><text class="val" x="806" y="110" text-anchor="end">B.Tech IT, class of 2027</text></g>
+  <g class="row r3"><text class="sub" x="440" y="142">LeetCode</text><text class="val" x="806" y="142" text-anchor="end">390+ solved</text></g>
+  <g class="row r4"><text class="sub" x="440" y="174">Next</text><text class="val" x="806" y="174" text-anchor="end">Masters</text></g>
+  <g class="row r5"><text class="sub" x="440" y="206">Rule</text><text class="val" x="806" y="206" text-anchor="end">a real project in every domain</text></g>
+</svg>
