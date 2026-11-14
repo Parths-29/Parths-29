@@ -10,14 +10,4 @@
 
 <img src="assets/focus.svg" width="100%" alt="AI and ML, interface design, and other things I ship"/>
 
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/cards/summary-dark.svg">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/cards/summary-light.svg" width="450" alt="GitHub stats">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/cards/languages-dark.svg">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/cards/languages-light.svg" width="350" alt="Most used languages">
-</picture>
-</p>
 
