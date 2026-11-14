@@ -21,13 +21,3 @@
 </picture>
 </p>
 
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/cards/contributions-dark.svg">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/cards/contributions-light.svg" width="450" alt="Notable contributions">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/cards/weekly-dark.svg">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/cards/weekly-light.svg" width="350" alt="Weekly rhythm">
-</picture>
-</p>
