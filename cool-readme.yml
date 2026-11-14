@@ -1,0 +1,21 @@
+cards: [summary, languages, contributions, weekly]
+style: classic
+summary:
+  ring: github          # GitHub logo in the ring, like your screenshot
+languages:
+  title: Most used languages
+  count: 6
+  other: true
+contributions:
+  title: Notable contributions
+  count: 6
+  includeOpen: true
+weekly:
+  title: Weekly rhythm
+include:
+  private: true
+  orgs: true
+theme:
+  background: transparent
+  border: false
+  animations: true
